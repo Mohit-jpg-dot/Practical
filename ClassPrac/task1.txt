@@ -1,1 +1,6 @@
+git allows you to combine branches 
 How to use push and pull operations
+
+------------Github Interface--------------
+
+Making changes via Github interface.
